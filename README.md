@@ -1,1 +1,1 @@
-# hadoop-pseudo-distribuido
+# Estudos
